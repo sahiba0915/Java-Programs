@@ -1,4 +1,4 @@
-package com.rahul;
+package com.var;
 
 public class Primitives {
     public static void main(String[] args) {

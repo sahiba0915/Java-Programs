@@ -1,6 +1,5 @@
-package com.rahul;
+package com.var;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Inputs {

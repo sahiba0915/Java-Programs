@@ -1,4 +1,4 @@
-package com.rahul;
+package com.var;
 import java.util.Scanner;
 
 public class Main {
