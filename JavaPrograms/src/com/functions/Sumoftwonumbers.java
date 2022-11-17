@@ -6,9 +6,18 @@ public class Sumoftwonumbers {
     public static void main(String[] args) {
         sum();
 
-     int ans = sum2();
-        System.out.println(ans);
+         int ans = sum2();
+            System.out.println(ans);
+            int ans2 = sum3(20,30);
+        System.out.println(ans2);
     }
+    
+    static int sum3(int a, int b){
+        int sum = a + b;
+        return sum;
+    }
+
+
 
     static int sum2() {
         Scanner in = new Scanner(System.in);
